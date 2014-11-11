@@ -1,0 +1,33 @@
+import csv
+import random
+#with open('../data/predata.csv', 'rb') as csvfile:
+#    spamreader = csv.DictReader(csvfile, delimiter=' ', quotechar='|')
+    #for row in spamreader:
+    #    print ', '.join(row)
+
+#print spamreader[0]
+#for key in spamreader:
+#    print key, 'corresponds to', spamreader[key]
+
+
+input_file = csv.reader(open("../data/predata.csv"))
+output_file = open("../data/output.csv", 'w')
+
+counter = 0;
+
+for row in input_file:
+    if ( counter != 0 ):
+        print row
+        output_file.write( str(row)[1:-1] + ',' + str(random.randint(1,50)) + ',' + str(random.randint(1,50)) + ',' + str(random.randint(1,50)) + ',' + str(random.randint(1,50)) + ',' + str(random.randint(1,50)) + '\n' )
+    elif ( counter == 0 ):
+        output_file.write( str(row)[1:-1] + ",'GvtSpending','AvgCostAtten','NumIntStudents','PercentPopAttends','EduRank'\n" )
+        
+    counter = counter + 1
+    
+#name
+#Government spending on education
+#average cost of college attendance
+#number of foreign/international students
+#percentage of population that attends college
+#education rank
+

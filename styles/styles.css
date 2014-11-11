@@ -1,0 +1,14 @@
+.large-view {
+    min-height: 550px;
+    background-color: rgba(185, 185, 185, .5);
+    margin: 2em 0;
+}
+.dot {
+    background-color: rgba(173, 216, 230, .75);
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    font-size: 12px;
+    line-height: 60px;
+    text-align: center;
+}

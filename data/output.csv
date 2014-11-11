@@ -1,0 +1,234 @@
+'Name', 'Region','GvtSpending','AvgCostAtten','NumIntStudents','PercentPopAttends','EduRank'
+'Afghanistan', 'Asia',45,11,49,13,90
+'Albania', 'Europe',50,38,21,15,93
+'Algeria', 'Africa',15,29,35,24,208
+'American Samoa', 'Australasia',28,41,44,15,158
+'Andorra', 'Europe',5,7,46,36,127
+'Angola', 'Africa',1,8,28,31,25
+'Anguilla', 'Caribbean',35,4,26,17,210
+'Antigua and Barbuda', 'Caribbean',5,34,12,26,106
+'Argentina', 'South America',24,35,28,26,21
+'Armenia', 'Europe',15,28,19,38,190
+'Aruba', 'Caribbean',8,10,21,11,150
+'Australia', 'Australasia',47,45,30,36,109
+'Austria', 'Europe',50,7,23,18,225
+'Azerbaijan', 'Europe',14,2,12,9,151
+'Bahamas', 'Caribbean',4,2,15,42,71
+'Bahrain', 'Middle East',48,3,8,18,63
+'Bangladesh', 'Asia',23,46,47,39,153
+'Barbados', 'Caribbean',3,34,23,15,188
+'Belarus', 'Europe',19,4,21,34,186
+'Belgium', 'Europe',40,49,36,7,111
+'Belize', 'North America',10,21,2,44,96
+'Benin', 'Africa',47,28,24,18,212
+'Bermuda', 'Caribbean',19,10,35,30,65
+'Bhutan', 'Asia',10,39,15,30,33
+'Bolivia', 'South America',21,42,2,27,156
+'Bosnia-Herzegovina', 'Europe',26,2,23,14,49
+'Botswana', 'Africa',34,9,48,10,22
+'Bouvet Island', 'Africa',45,43,12,36,80
+'Brazil', 'South America',6,7,21,38,118
+'Brunei', 'Asia',26,3,28,13,42
+'Bulgaria', 'Europe',19,8,18,13,27
+'Burkina Faso', 'Africa',10,10,46,18,62
+'Burundi', 'Africa',37,25,15,41,31
+'Cambodia', 'Asia',21,5,33,39,39
+'Cameroon', 'Africa',9,23,32,17,170
+'Canada', 'North America',17,38,31,34,58
+'Cape Verde', 'Africa',23,41,5,20,215
+'Cayman Islands', 'Caribbean',1,2,38,29,69
+'Central African Republic', 'Africa',9,46,3,23,180
+'Chad', 'Africa',44,22,5,17,45
+'Chile', 'South America',7,45,27,16,161
+'China', 'Asia',12,47,6,32,134
+'Christmas Island', 'Australasia',9,6,16,10,117
+'Cocos Islands', 'Australasia',16,26,26,12,176
+'Colombia', 'South America',36,44,22,1,169
+'Comoros', 'Africa',3,32,32,40,193
+'Democratic Republic of the Congo', 'Africa',38,9,22,3,218
+'Republic of Congo', 'Africa',43,47,4,28,43
+'Cook Islands', 'Australasia',13,12,15,5,220
+'Costa Rica', 'North America',28,2,39,49,157
+'Croatia', 'Europe',49,37,37,48,135
+'Cuba', 'Caribbean',37,48,3,14,59
+'Cyprus', 'Europe',27,17,23,49,29
+'Czech Republic', 'Europe',23,5,49,42,51
+'Denmark', 'Europe',44,13,21,44,209
+'Djibouti', 'Africa',45,1,23,4,171
+'Dominica', 'Caribbean',38,14,6,11,203
+'Dominican Republic', 'Caribbean',24,30,7,40,160
+'Ecuador', 'South America',28,50,38,8,44
+'Egypt', 'Africa',14,30,22,8,6
+'El Salvador', 'North America',21,13,44,10,126
+'Equatorial Guinea', 'Africa',9,39,4,15,174
+'Eritrea', 'Africa',2,33,15,2,197
+'Estonia', 'Europe',38,3,45,45,120
+'Ethiopia', 'Africa',7,2,26,18,155
+'Falkland Islands', 'South America',30,37,19,7,211
+'Faroe Islands', 'Europe',4,38,16,35,47
+'Fiji', 'Australasia',48,29,11,2,166
+'Finland', 'Europe',8,4,8,47,76
+'France', 'Europe',44,24,10,3,224
+'French Guiana', 'South America',22,6,8,32,52
+'Gabon', 'Africa',8,33,50,26,199
+'Gambia', 'Africa',6,49,4,38,141
+'Georgia', 'Europe',31,48,42,3,84
+'Germany', 'Europe',23,32,30,1,34
+'Ghana', 'Africa',4,11,48,6,132
+'Gibraltar', 'Europe',34,38,21,30,143
+'Greece', 'Europe',2,17,9,37,54
+'Greenland', 'Europe',3,50,23,5,181
+'Grenada', 'Caribbean',47,38,24,12,57
+'Guadeloupe', 'Caribbean',23,17,12,11,136
+'Guam', 'Australasia',31,43,22,9,40
+'Guatemala', 'North America',48,19,37,25,192
+'Guinea', 'Africa',3,2,2,21,198
+'Guinea Bissau', 'Africa',8,37,1,20,163
+'Guyana', 'South America',14,48,35,9,95
+'Haiti', 'Caribbean',17,47,30,32,74
+'Holy See', 'Europe',41,16,17,32,130
+'Honduras', 'North America',34,48,7,40,4
+'Hong Kong', 'Asia',36,44,22,50,194
+'Hungary', 'Europe',41,37,17,22,23
+'Iceland', 'Europe',30,12,19,8,1
+'India', 'Asia',22,2,17,17,226
+'Indonesia', 'Asia',48,5,8,14,159
+'Iran', 'Middle East',9,44,14,40,78
+'Iraq', 'Middle East',5,40,17,36,145
+'Ireland', 'Europe',33,33,13,4,204
+'Israel', 'Middle East',42,9,42,6,100
+'Italy', 'Europe',9,8,34,28,213
+'Ivory Coast', 'Africa',31,11,35,29,230
+'Jamaica', 'Caribbean',1,8,17,48,38
+'Japan', 'Asia',3,25,43,1,64
+'Jordan', 'Middle East',33,40,13,32,66
+'Kazakhstan', 'Asia',24,19,19,18,79
+'Kenya', 'Africa',39,31,13,32,108
+'Kiribati', 'Australasia',26,19,18,18,168
+'Kuwait', 'Middle East',8,16,50,7,102
+'Kyrgyzstan', 'Asia',41,4,38,4,107
+'Laos', 'Asia',2,50,45,9,149
+'Latvia', 'Europe',23,22,37,39,217
+'Lebanon', 'Middle East',48,1,6,48,35
+'Lesotho', 'Africa',22,2,34,23,56
+'Liberia', 'Africa',40,27,40,48,175
+'Libya', 'Africa',30,39,7,19,231
+'Liechtenstein', 'Europe',25,10,44,47,5
+'Lithuania', 'Europe',47,48,3,15,28
+'Luxembourg', 'Europe',41,30,7,13,50
+'Macau', 'Asia',49,14,30,3,179
+'Macedonia', 'Europe',37,44,8,40,88
+'Madagascar', 'Africa',31,28,49,13,233
+'Malawi', 'Africa',30,21,9,31,13
+'Malaysia', 'Asia',34,11,18,10,17
+'Maldives', 'Asia',46,15,18,39,104
+'Mali', 'Africa',1,3,39,42,216
+'Malta', 'Europe',8,16,36,34,86
+'Marshall Islands', 'Australasia',16,39,45,26,227
+'Martinique', 'Caribbean',34,28,31,7,202
+'Mauritania', 'Africa',25,37,25,39,61
+'Mauritius', 'Africa',27,31,1,34,98
+'Mayotte', 'Africa',11,9,39,15,191
+'Mexico', 'North America',21,26,6,36,165
+'Micronesia', 'Australasia',10,26,34,33,172
+'Moldova', 'Europe',5,9,29,46,67
+'Monaco', 'Europe',11,39,12,7,15
+'Mongolia', 'Asia',22,34,2,23,70
+'Montenegro', 'Europe',6,7,46,7,219
+'Montserrat', 'Caribbean',25,45,4,35,83
+'Morocco', 'Africa',13,33,36,25,184
+'Mozambique', 'Africa',3,31,11,48,148
+'Myanmar', 'Asia',25,28,39,27,85
+'Namibia', 'Africa',19,13,14,25,162
+'Nauru', 'Australasia',15,49,13,23,48
+'Nepal', 'Asia',27,28,32,49,113
+'Netherlands', 'Europe',20,3,4,30,173
+'Netherlands Antilles', 'Caribbean',21,13,50,23,189
+'New Caledonia', 'Australasia',8,14,35,46,187
+'New Zealand', 'Australasia',23,24,20,32,114
+'Nicaragua', 'North America',41,34,14,18,91
+'Niger', 'Africa',20,23,40,2,16
+'Nigeria', 'Africa',25,34,50,6,18
+'Niue', 'Australasia',19,16,17,17,182
+'Norfolk Island', 'Australasia',38,1,11,47,128
+'North Korea', 'Asia',20,45,43,14,20
+'Northern Mariana Islands', 'Asia',41,50,49,43,183
+'Norway', 'Europe',11,17,3,19,7
+'Oman', 'Middle East',7,40,20,33,133
+'Pakistan', 'Asia',4,32,30,10,12
+'Palau', 'Australasia',30,6,1,15,195
+'Panama', 'North America',5,30,40,22,112
+'Papua New Guinea', 'Australasia',20,4,37,50,164
+'Paraguay', 'South America',42,32,39,2,178
+'Peru', 'South America',16,33,9,35,139
+'Philippines', 'Asia',36,47,13,32,124
+'Pitcairn Island', 'Australasia',28,26,50,21,196
+'Poland', 'Europe',29,10,43,47,123
+'Polynesia', 'Australasia',15,3,49,22,146
+'Portugal', 'Europe',17,9,2,45,207
+'Puerto Rico', 'Caribbean',5,47,23,9,53
+'Qatar', 'Middle East',3,27,13,7,137
+'Reunion', 'Africa',46,7,21,25,232
+'Romania', 'Europe',5,24,32,29,200
+'Russia', 'Europe',3,42,42,6,144
+'Rwanda', 'Africa',35,5,6,19,221
+'Saint Helena', 'Africa',29,28,9,33,24
+'Saint Kitts and Nevis', 'Caribbean',9,29,43,9,3
+'Saint Lucia', 'Caribbean',28,43,44,36,19
+'Saint Pierre and Miquelon', 'North America',34,5,12,17,121
+'Saint Vincent and Grenadines', 'Caribbean',50,19,46,32,75
+'Samoa', 'Australasia',22,39,34,44,154
+'San Marino', 'Europe',49,41,15,32,214
+'Sao Tome and Principe', 'Africa',20,28,47,3,103
+'Saudi Arabia', 'Middle East',31,44,8,23,222
+'Senegal', 'Africa',6,29,36,44,177
+'Serbia', 'Europe',3,19,13,17,26
+'Seychelles', 'Africa',17,6,22,33,105
+'Sierra Leone', 'Africa',24,33,26,21,89
+'Singapore', 'Asia',40,27,26,29,2
+'Slovakia', 'Europe',33,33,35,39,32
+'Slovenia', 'Europe',43,31,12,20,223
+'Solomon Islands', 'Australasia',28,14,49,20,82
+'Somalia', 'Africa',27,27,31,44,8
+'South Africa', 'Africa',18,32,47,49,140
+'South Georgia and South Sandwich Islands', 'South America',47,29,3,43,185
+'South Korea', 'Asia',36,33,34,22,138
+'South Sudan', 'Africa',17,3,30,7,152
+'Spain', 'Europe',35,12,29,50,131
+'Sri Lanka', 'Asia',39,37,17,42,119
+'Sudan', 'Africa',5,1,4,38,81
+'Suriname', 'South America',33,43,36,35,229
+'Svalbard and Jan Mayen Islands', 'Europe',38,49,48,50,37
+'Swaziland', 'Africa',24,36,23,42,68
+'Sweden', 'Europe',17,18,41,39,142
+'Switzerland', 'Europe',5,26,34,46,125
+'Syria', 'Middle East',9,46,28,12,72
+'Taiwan', 'Asia',6,48,40,28,206
+'Tajikistan', 'Asia',30,18,40,25,73
+'Tanzania', 'Africa',22,11,13,49,77
+'Thailand', 'Asia',15,12,35,24,60
+'Timor-Leste', 'Australasia',11,32,10,30,9
+'Togo', 'Africa',4,38,44,15,201
+'Tokelau', 'Australasia',3,40,10,37,205
+'Tonga', 'Australasia',38,35,21,11,92
+'Trinidad and Tobago', 'Caribbean',17,28,10,4,110
+'Tunisia', 'Africa',44,9,19,16,11
+'Turkey', 'Middle East',8,5,50,6,115
+'Turkmenistan', 'Asia',28,37,19,1,167
+'Turks and Caicos Islands', 'Caribbean',43,27,2,3,46
+'Tuvalu', 'Australasia',37,4,28,38,55
+'Uganda', 'Africa',6,27,28,8,14
+'Ukraine', 'Europe',18,40,1,37,87
+'United Arab Emirates', 'Middle East',18,8,46,4,147
+'United Kingdom', 'Europe',28,35,24,31,99
+'United States', 'North America',28,1,46,47,122
+'Uruguay', 'South America',28,42,42,23,10
+'Uzbekistan', 'Asia',16,34,5,27,41
+'Vanuatu', 'Australasia',50,35,47,28,97
+'Venezuela', 'South America',35,37,18,11,101
+'Vietnam', 'Asia',13,23,23,42,36
+'Virgin Islands', 'Caribbean',20,49,12,35,129
+'Wallis and Futuna Islands', 'Australasia',1,15,25,11,30
+'Yemen', 'Middle East',21,25,8,6,94
+'Zambia', 'Africa',32,39,14,12,116
+'Zimbabwe', 'Africa',38,23,31,9,228
