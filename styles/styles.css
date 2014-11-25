@@ -3,12 +3,66 @@
     background-color: rgba(185, 185, 185, .5);
     margin: 2em 0;
 }
-.dot {
-    background-color: rgba(173, 216, 230, .75);
-    border-radius: 50%;
-    width: 60px;
-    height: 60px;
-    font-size: 12px;
-    line-height: 60px;
-    text-align: center;
+/* Map */
+.land {
+    fill: #1d1;
+}
+.land:hover {
+    fill: #fff;
+}
+.stroke {
+    fill: none;
+    stroke: #000;
+    stroke-width: 3px;
+}
+.fill {
+    fill: #22f;
+}
+.graticule {
+    fill: none;
+    stroke: #fff;
+    stroke-width: .5px;
+    stroke-opacity: .3;
+}
+.boundary {
+    fill: none;
+    stroke: #fff;
+    stroke-width: .5px;
+}
+/* SPM */
+svg {
+  font: 10px sans-serif;
+  padding: 10px;
+}
+
+.axis,
+.frame {
+  shape-rendering: crispEdges;
+}
+
+.axis line {
+  stroke: #ddd;
+}
+
+.axis path {
+  display: none;
+}
+
+.frame {
+  fill: none;
+  stroke: #aaa;
+}
+
+circle {
+  fill-opacity: .7;
+}
+
+circle.hidden {
+  fill: #ccc !important;
+}
+
+.extent {
+  fill: #000;
+  fill-opacity: .125;
+  stroke: #fff;
 }
